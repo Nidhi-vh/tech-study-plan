@@ -1,3 +1,4 @@
+# tech-study-plan
 # 🚀 Tech Study Plan Website
 
 A fully offline + hostable HTML-based 6-week technical study plan for interviews, covering:
